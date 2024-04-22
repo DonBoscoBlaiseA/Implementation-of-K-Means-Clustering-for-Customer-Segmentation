@@ -29,6 +29,8 @@ data.head()
 data.isnull().sum()
 from sklearn.cluster import KMeans
 wcss = [] # Within-Cluster Sum of Square
+```
+```
 # It is the sum of squared distance between each point & the centroid in a cluster
 for i in range(1, 11):
     kmeans = KMeans(n_clusters = i,init = "k-means++")
@@ -36,9 +38,6 @@ for i in range(1, 11):
     wcss.append(kmeans.inertia_)
 plt.plot(range(1, 11),wcss)
 plt.xlabel("No. of clusters")
-```
-
-```
 plt.ylabel("wcss")
 plt.title("Elbow Method")
 km = KMeans(n_clusters = 5)
