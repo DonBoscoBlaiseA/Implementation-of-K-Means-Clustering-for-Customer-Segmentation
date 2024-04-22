@@ -41,6 +41,8 @@ plt.title("Elbow Method")
 km = KMeans(n_clusters = 5)
 km.fit(data.iloc[:,3:])
 y_pred = km.predict(data.iloc[:,3:])
+```
+```
 y_pred
 data["cluster"] = y_pred
 df0 = data[data["cluster"] == 0]
