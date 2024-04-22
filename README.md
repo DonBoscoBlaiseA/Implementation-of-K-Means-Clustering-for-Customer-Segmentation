@@ -36,13 +36,14 @@ for i in range(1, 11):
     wcss.append(kmeans.inertia_)
 plt.plot(range(1, 11),wcss)
 plt.xlabel("No. of clusters")
+```
+
+```
 plt.ylabel("wcss")
 plt.title("Elbow Method")
 km = KMeans(n_clusters = 5)
 km.fit(data.iloc[:,3:])
 y_pred = km.predict(data.iloc[:,3:])
-```
-```
 y_pred
 data["cluster"] = y_pred
 df0 = data[data["cluster"] == 0]
