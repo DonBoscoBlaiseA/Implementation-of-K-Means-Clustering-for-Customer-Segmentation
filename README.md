@@ -64,6 +64,7 @@ plt.title("Customer Segments")
 
 <img src="https://github.com/DonBoscoBlaiseA/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/140850829/6f14b9ca-d634-492b-8de4-c0b0c8a31d6a.png" width="588">  
 <br>  
+<br>  
 
 ![image](https://github.com/DonBoscoBlaiseA/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/140850829/545931ba-177d-4ccc-958b-ec52c3f381f5)  
 
