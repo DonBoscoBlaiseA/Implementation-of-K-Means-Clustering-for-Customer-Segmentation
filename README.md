@@ -61,7 +61,7 @@ plt.title("Customer Segments")
 ![image](https://github.com/DonBoscoBlaiseA/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/140850829/8d7af815-e4f3-4464-923c-c76d1bbe92f6)
 ![image](https://github.com/DonBoscoBlaiseA/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/140850829/bacd5af8-bcd1-4507-aa94-fc78d808722c)  
 
-<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/140850829/6f14b9ca-d634-492b-8de4-c0b0c8a31d6a.png" width="550">  
+<img src="https://github.com/DonBoscoBlaiseA/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/140850829/6f14b9ca-d634-492b-8de4-c0b0c8a31d6a.png" width="560">  
 
 ![image](https://github.com/DonBoscoBlaiseA/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/140850829/545931ba-177d-4ccc-958b-ec52c3f381f5)  
 
